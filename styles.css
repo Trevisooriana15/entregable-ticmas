@@ -16,7 +16,7 @@
 
 .ContainerContent {
   display: grid;
-  grid-template-columns: repeat(4, 25%)
+  grid-template-columns: repeat(3, 33.3 %)
 }
 
 
